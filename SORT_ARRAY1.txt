@@ -1,0 +1,22 @@
+#include <stdio.h>
+#define DIM 20
+int main()
+{
+    int a[DIM]={5,8,13,1,-9,7,-2},aux;
+    unsigned short i,j;
+    for(i=0;i<=(DIM-2);++i)
+        for(j=0;j<=(DIM-1);++j)
+    {
+        if(a[i]>a[j])
+        {
+            aux=a[i];
+            a[i]=a[j];
+            a[j]=aux;
+        }
+    }
+    printf("Sirul este:");
+    for(i=0;i<=(DIM-1);++i)
+    {
+     printf("%d ",a[i]);
+    }
+    return 0;
