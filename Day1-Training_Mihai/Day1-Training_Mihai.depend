@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1472625508 source:c:\users\alexandru.pintea\documents\tema\day1-training_mihai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdio.h>
+	<math.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	"Aritmetice.h"
+	"aplicatie.h"
+	<stdio.h>
+
+1472625508 source:c:\users\alexandru.pintea\documents\tema\day1-training_mihai\aplicatie.c
+
+1472625508 c:\users\alexandru.pintea\documents\tema\day1-training_mihai\aritmetice.h
+
+1472625508 c:\users\alexandru.pintea\documents\tema\day1-training_mihai\aplicatie.h
+
+1472625567 source:c:\users\alexandru.pintea\documents\tema\day1-training_mihai\aritmetice.c
+	"Aritmetice.h"
+
