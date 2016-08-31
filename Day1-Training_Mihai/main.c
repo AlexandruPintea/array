@@ -1,4 +1,4 @@
-/* PROBLEMA NUMARUL 1
+/* PROBLEMA NUMARUL 1*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -38,7 +38,7 @@ int main()
     scanf("%lf",&x);
     if(f(x,&yres))printf("f(%lf)=%lf",x,y_res);
     return 0;
-}*/
+}
 
 /* PROBLEMA NUMARUL 2
 #include <stdio.h>
