@@ -37,6 +37,7 @@ int main()
     printf("introduceti numarul x: /n");
     scanf("%lf",&x);
     if(f(x,&yres))printf("f(%lf)=%lf",x,y_res);
+    printf("Am modificat pentru GIT");
     return 0;
 }
 
